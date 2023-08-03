@@ -15,7 +15,7 @@
     <meta content="width" name="MobileOptimized">
     <meta content="indonesian" name="language">
     <meta content="#8b8b8b" name="theme-color" />
-    <meta name="google-site-verification" content="Zs7yJjt05l6OrS8LxLMLlMRpbsOKvbnQZ4lJGqfiKSA" />
+    <meta name="google-site-verification" content="bWih3Bsmq7g_s18XXriUzx4oc-MF7bK9GR32fOUm-8E" />
     <link rel="preload" as="image" href="https://i.ibb.co/q97Jzdc/s1slot-s1gacor.jpg" />
     <meta name="supported-amp-formats" content="websites,stories,ads,email">	
     <!-- Twitter -->
